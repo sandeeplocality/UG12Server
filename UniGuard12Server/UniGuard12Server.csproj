@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FEDE35B9-502B-41A9-A8C1-EA6AF49D63CF}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UniGuard12Server</RootNamespace>
+    <AssemblyName>UniGuard12Server</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Frank\Documents\Published Apps\UniGuard12Server\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>2975620FEDEB696E7CDC0DFECC1F7EA3A91D2E24</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>UniGuard12Server_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Config\log4net.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="SuperSocket.SocketService.exe.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UniGuard12Server_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Command\WMDevice.cs" />
+    <Compile Include="GPRSCommandReader.cs" />
+    <Compile Include="GPRSCustomProtocol.cs" />
+    <Compile Include="GPRSData.cs" />
+    <Compile Include="GPRSServer.cs" />
+    <Compile Include="GPRSSession.cs" />
+    <Compile Include="MyService.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MyServiceInstaller.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="ServiceManager.cs" />
+    <Compile Include="Settings.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Jwm.Device.Lib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Jwm.Device.Lib.dll</HintPath>
+    </Reference>
+    <Reference Include="Jwm.Device.Lib2">
+      <HintPath>..\..\..\SDK\JWM\JWM real-time receiver dlls\Jwm.Device.Lib2.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\..\..\DotNetLibs\SuperSocket_V1.46_Net45\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Pop3Client, Version=1.0.4974.23414, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\TestPOP3Monitor\TestPOP3Monitor\Pop3Client.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.ServiceProcess">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="WMGPRSLib">
+      <Guid>{841C1B0D-AA37-4532-B358-F3F3E9574EAF}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FileMonitoring\FileMonitoring.csproj">
+      <Project>{fa5194ee-1f0e-4074-b51f-e547df21aaff}</Project>
+      <Name>FileMonitoring</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HighRiskCheckpoiont\HighRiskCheckpoiont.csproj">
+      <Project>{d6171a8a-7abb-4baa-b813-ef225fbf5656}</Project>
+      <Name>HighRiskCheckpoiont</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Pop3Monitoring\EmailMonitoring.csproj">
+      <Project>{0c585f00-a0fb-4fbd-ad1e-f2d1c76096c2}</Project>
+      <Name>EmailMonitoring</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ScheduledTask\ScheduledTask.csproj">
+      <Project>{4e816ed7-56ed-499f-8dc0-140684f28664}</Project>
+      <Name>ScheduledTask</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Settings\Settings.csproj">
+      <Project>{30c6e314-092a-4fb2-9815-cc7f6da37217}</Project>
+      <Name>Settings</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SiteLoop\SiteLoop.csproj">
+      <Project>{36fb25e0-501d-4265-9aa2-31267be312f1}</Project>
+      <Name>SiteLoop</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SiteWelfareChecking\SiteWelfareChecking.csproj">
+      <Project>{084f90a8-e1fa-4d9c-ac7b-256d9061d7bc}</Project>
+      <Name>SiteWelfareChecking</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SuperSocket_V1.46_Source\Common\SuperSocket.Common.csproj">
+      <Project>{a24f4d38-ba9c-4fd6-95b7-4980de36131a}</Project>
+      <Name>SuperSocket.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SuperSocket_V1.46_Source\SocketBase\SuperSocket.SocketBase.csproj">
+      <Project>{40b77789-ea11-4c05-8f52-86711d7bcaaf}</Project>
+      <Name>SuperSocket.SocketBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SuperSocket_V1.46_Source\SocketEngine\SuperSocket.SocketEngine.csproj">
+      <Project>{153fef72-191c-43d9-be71-2b351c7ac760}</Project>
+      <Name>SuperSocket.SocketEngine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SuperSocket_V1.46_Source\SocketService\SuperSocket.SocketService.csproj">
+      <Project>{b9113694-7226-4152-938d-3172b11571a1}</Project>
+      <Name>SuperSocket.SocketService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UniGuardLib\UniGuardLib.csproj">
+      <Project>{3034b3ec-238a-48e1-842c-cdbf85e79e16}</Project>
+      <Name>UniGuardLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
