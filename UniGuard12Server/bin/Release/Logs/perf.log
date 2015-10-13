@@ -1,0 +1,180 @@
+2013-03-15 08:54:28,813 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 74,571,776.00, Total Thread Count: 16
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 08:55:28,748 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 74,981,376.00, Total Thread Count: 17
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 08:56:28,760 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 75,059,200.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 08:57:28,802 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 75,587,584.00, Total Thread Count: 16
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 08:58:28,786 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 77,574,144.00, Total Thread Count: 16
+AvailableWorkingThreads: 1020, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 08:59:28,800 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 77,635,584.00, Total Thread Count: 16
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:00:28,814 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 77,692,928.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:01:28,827 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 77,766,656.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:02:28,841 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 77,844,480.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:03:28,856 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 77,922,304.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:04:28,868 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 75,177,984.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:05:28,883 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 75,251,712.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:06:28,896 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 75,329,536.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:07:28,910 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 75,399,168.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:08:28,924 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 75,468,800.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:09:28,935 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 75,554,816.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:10:28,950 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 75,624,448.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:11:28,964 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 75,694,080.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:12:28,977 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 75,763,712.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:13:28,990 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 75,837,440.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:14:29,005 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 75,911,168.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:15:29,019 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 75,980,800.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:16:29,030 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 76,046,336.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:17:29,045 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 76,120,064.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:18:29,058 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 76,197,888.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:19:29,073 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 76,263,424.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:20:29,091 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 76,337,152.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:21:29,099 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 76,406,784.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:22:29,114 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 76,476,416.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-15 09:23:29,126 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.01%, Physical Memory Usage: 76,550,144.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 15/03/2013 8:52:54 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+

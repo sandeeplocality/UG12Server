@@ -1,0 +1,26 @@
+﻿Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\FileMonitoring.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\FileMonitoring.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\FileMonitoring.exe
+Installing service UniGuard12FileMonitoring...
+Service UniGuard12FileMonitoring has been successfully installed.
+Creating EventLog source UniGuard12FileMonitoring in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\FileMonitoring.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\FileMonitoring.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\FileMonitoring.exe
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\filemonitoring.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\filemonitoring.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\filemonitoring.exe
+Installing service UniGuard12FileMonitoring...
+Service UniGuard12FileMonitoring has been successfully installed.
+Creating EventLog source UniGuard12FileMonitoring in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\filemonitoring.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\filemonitoring.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\filemonitoring.exe

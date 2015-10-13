@@ -1,0 +1,84 @@
+﻿Installing assembly 'c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.InstallLog
+   assemblypath = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe
+Installing service UniGuard12ScheduledTask...
+Service UniGuard12ScheduledTask has been successfully installed.
+Creating EventLog source UniGuard12ScheduledTask in log Application...
+Committing assembly 'c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.InstallLog
+   assemblypath = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe
+Uninstalling assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe
+Removing EventLog source UniGuard12ScheduledTask.
+Service UniGuard12ScheduledTask is being removed from the system...
+Service UniGuard12ScheduledTask was successfully removed from the system.
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe
+Installing service UniGuard12ScheduledTask...
+Service UniGuard12ScheduledTask has been successfully installed.
+Creating EventLog source UniGuard12ScheduledTask in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe
+Uninstalling assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe
+Removing EventLog source UniGuard12ScheduledTask.
+Service UniGuard12ScheduledTask is being removed from the system...
+Service UniGuard12ScheduledTask was successfully removed from the system.
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe
+Installing service UniGuard12ScheduledTask...
+Service UniGuard12ScheduledTask has been successfully installed.
+Creating EventLog source UniGuard12ScheduledTask in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe
+Uninstalling assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe
+Removing EventLog source UniGuard12ScheduledTask.
+Service UniGuard12ScheduledTask is being removed from the system...
+Service UniGuard12ScheduledTask was successfully removed from the system.
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe
+Installing service UniGuard12ScheduledTask...
+Service UniGuard12ScheduledTask has been successfully installed.
+Creating EventLog source UniGuard12ScheduledTask in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe
+Uninstalling assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\ScheduledTask.exe
+Removing EventLog source UniGuard12ScheduledTask.
+Service UniGuard12ScheduledTask is being removed from the system...
+Service UniGuard12ScheduledTask was successfully removed from the system.

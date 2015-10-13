@@ -1,0 +1,12 @@
+2013-03-01 10:48:54,744 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.00%, Physical Memory Usage: 78,159,872.00, Total Thread Count: 15
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 1/03/2013 10:48:52 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+
+2013-03-01 10:49:54,732 SuperSocket - ---------------------------------------------------
+CPU Usage: 0.03%, Physical Memory Usage: 82,300,928.00, Total Thread Count: 16
+AvailableWorkingThreads: 1022, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 1023, MaxCompletionPortThreads: 1000
+GPRSServer - Started Time: 1/03/2013 10:48:52 AM, Total Connections: 0, Total Handled Commands: 0, Command Handling Speed: 0/s
+

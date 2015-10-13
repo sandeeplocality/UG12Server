@@ -1,0 +1,71 @@
+﻿Uninstalling assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe
+Removing EventLog source UniGuard12FileMonitoring.
+Service UniGuard12FileMonitoring is being removed from the system...
+Service UniGuard12FileMonitoring was successfully removed from the system.
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe
+Installing service UniGuard12FileMonitoring...
+Service UniGuard12FileMonitoring has been successfully installed.
+Creating EventLog source UniGuard12FileMonitoring in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe
+Uninstalling assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe
+Removing EventLog source UniGuard12FileMonitoring.
+Service UniGuard12FileMonitoring is being removed from the system...
+Service UniGuard12FileMonitoring was successfully removed from the system.
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe
+Installing service UniGuard12FileMonitoring...
+Service UniGuard12FileMonitoring has been successfully installed.
+Creating EventLog source UniGuard12FileMonitoring in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe
+Uninstalling assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe
+Removing EventLog source UniGuard12FileMonitoring.
+Service UniGuard12FileMonitoring is being removed from the system...
+Service UniGuard12FileMonitoring was successfully removed from the system.
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe
+Installing service UniGuard12FileMonitoring...
+Service UniGuard12FileMonitoring has been successfully installed.
+Creating EventLog source UniGuard12FileMonitoring in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe
+Uninstalling assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\FileMonitoring.exe
+Removing EventLog source UniGuard12FileMonitoring.
+Service UniGuard12FileMonitoring is being removed from the system...
+Service UniGuard12FileMonitoring was successfully removed from the system.

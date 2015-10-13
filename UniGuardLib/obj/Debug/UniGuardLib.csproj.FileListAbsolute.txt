@@ -1,0 +1,15 @@
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuardLib\bin\Debug\UniGuardLib.dll.config
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuardLib\bin\Debug\UniGuardLib.dll
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuardLib\bin\Debug\UniGuardLib.pdb
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuardLib\bin\Debug\Jwm.Device.Lib.dll
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuardLib\bin\Debug\MySql.Data.dll
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuardLib\obj\Debug\UniGuardLib.dll
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuardLib\obj\Debug\UniGuardLib.pdb
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuardLib\obj\Debug\UniGuardLib.csprojResolveAssemblyReference.cache
+C:\dev\UniGuard12Server\UniGuardLib\bin\Debug\UniGuardLib.dll.config
+C:\dev\UniGuard12Server\UniGuardLib\bin\Debug\UniGuardLib.dll
+C:\dev\UniGuard12Server\UniGuardLib\bin\Debug\UniGuardLib.pdb
+C:\dev\UniGuard12Server\UniGuardLib\bin\Debug\Jwm.Device.Lib.dll
+C:\dev\UniGuard12Server\UniGuardLib\obj\Debug\UniGuardLib.csprojResolveAssemblyReference.cache
+C:\dev\UniGuard12Server\UniGuardLib\obj\Debug\UniGuardLib.dll
+C:\dev\UniGuard12Server\UniGuardLib\obj\Debug\UniGuardLib.pdb

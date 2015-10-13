@@ -1,0 +1,11 @@
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\Debugger\bin\Debug\Debugger.exe.config
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\Debugger\bin\Debug\Debugger.exe
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\Debugger\bin\Debug\Debugger.pdb
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\Debugger\bin\Debug\UniGuardLib.dll
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\Debugger\bin\Debug\Jwm.Device.Lib.dll
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\Debugger\bin\Debug\UniGuardLib.pdb
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\Debugger\obj\Debug\Debugger.exe
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\Debugger\obj\Debug\Debugger.pdb
+C:\dev\UniGuard12Server\Debugger\bin\Debug\Debugger.exe.config
+C:\dev\UniGuard12Server\Debugger\obj\Debug\Debugger.exe
+C:\dev\UniGuard12Server\Debugger\obj\Debug\Debugger.pdb

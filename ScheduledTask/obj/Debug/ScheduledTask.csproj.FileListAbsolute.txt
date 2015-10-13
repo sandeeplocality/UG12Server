@@ -1,0 +1,12 @@
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\ScheduledTask\bin\Debug\ScheduledTask.exe.config
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\ScheduledTask\bin\Debug\ScheduledTask.exe
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\ScheduledTask\bin\Debug\ScheduledTask.pdb
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\ScheduledTask\bin\Debug\System.ServiceProcess.dll
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\ScheduledTask\bin\Debug\UniGuardLib.dll
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\ScheduledTask\bin\Debug\Jwm.Device.Lib.dll
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\ScheduledTask\bin\Debug\UniGuardLib.pdb
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\ScheduledTask\obj\Debug\ScheduledTask.exe
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\ScheduledTask\obj\Debug\ScheduledTask.pdb
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\ScheduledTask\obj\Debug\ScheduledTask.csprojResolveAssemblyReference.cache
+C:\dev\UniGuard12Server\ScheduledTask\obj\Debug\ScheduledTask.csprojResolveAssemblyReference.cache
+C:\dev\UniGuard12Server\ScheduledTask\obj\Debug\ScheduledTask.exe

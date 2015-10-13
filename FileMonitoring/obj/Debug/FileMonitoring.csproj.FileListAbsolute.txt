@@ -1,0 +1,16 @@
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\FileMonitoring.exe.config
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\FileMonitoring.exe
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\FileMonitoring.pdb
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\System.ServiceProcess.dll
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\UniGuardLib.dll
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\Jwm.Device.Lib.dll
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\bin\Debug\UniGuardLib.pdb
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\obj\Debug\FileMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\obj\Debug\FileMonitoring.Properties.Resources.resources
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\obj\Debug\FileMonitoring.csproj.GenerateResource.Cache
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\obj\Debug\FileMonitoring.exe
+C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\FileMonitoring\obj\Debug\FileMonitoring.pdb
+C:\dev\UniGuard12Server\FileMonitoring\obj\Debug\FileMonitoring.csprojResolveAssemblyReference.cache
+C:\dev\UniGuard12Server\FileMonitoring\obj\Debug\FileMonitoring.Properties.Resources.resources
+C:\dev\UniGuard12Server\FileMonitoring\obj\Debug\FileMonitoring.csproj.GenerateResource.Cache
+C:\dev\UniGuard12Server\FileMonitoring\obj\Debug\FileMonitoring.exe

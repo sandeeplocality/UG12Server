@@ -1,0 +1,388 @@
+﻿Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing service GPRSServerService...
+Creating EventLog source GPRSServerService in log Application...
+Rolling back assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Restoring event log to previous state for source GPRSServerService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Unable to create an instance of the SuperSocket.SocketService.SocketServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Rolling back assembly 'c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Unable to create an instance of the SuperSocket.SocketService.SocketServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Installing assembly 'c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Unable to create an instance of the SuperSocket.SocketService.SocketServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Rolling back assembly 'c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Unable to create an instance of the SuperSocket.SocketService.SocketServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing service GPRSServer...
+Creating EventLog source GPRSServer in log Application...
+Rolling back assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Restoring event log to previous state for source GPRSServer.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Unable to create an instance of the SuperSocket.SocketService.SocketServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Rolling back assembly 'c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Unable to create an instance of the SuperSocket.SocketService.SocketServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Installing assembly 'c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Unable to create an instance of the SuperSocket.SocketService.SocketServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Rolling back assembly 'c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Unable to create an instance of the SuperSocket.SocketService.SocketServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing service GPRSServer...
+Creating EventLog source GPRSServer in log Application...
+Rolling back assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Restoring event log to previous state for source GPRSServer.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Unable to create an instance of the SuperSocket.SocketService.SocketServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Rolling back assembly 'c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Unable to create an instance of the SuperSocket.SocketService.SocketServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Installing assembly 'c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Unable to create an instance of the SuperSocket.SocketService.SocketServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Rolling back assembly 'c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Unable to create an instance of the SuperSocket.SocketService.SocketServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing service GPRSService...
+Creating EventLog source GPRSService in log Application...
+Rolling back assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Restoring event log to previous state for source GPRSService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing service GPRSService...
+Creating EventLog source GPRSService in log Application...
+Rolling back assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Restoring event log to previous state for source GPRSService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Unable to create an instance of the SuperSocket.SocketService.SocketServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Rolling back assembly 'c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Unable to create an instance of the SuperSocket.SocketService.SocketServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing service GPRSService...
+Service GPRSService has been successfully installed.
+Creating EventLog source GPRSService in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing assembly 'c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing service GPRSService...
+Creating EventLog source GPRSService in log Application...
+Rolling back assembly 'c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = c:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Restoring event log to previous state for source GPRSService.
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing service GPRSService...
+Creating EventLog source GPRSService in log Application...
+Rolling back assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Restoring event log to previous state for source GPRSService.
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing service GPRSService...
+Service GPRSService has been successfully installed.
+Creating EventLog source GPRSService in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing service GPRSService...
+Service GPRSService has been successfully installed.
+Creating EventLog source GPRSService in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing service UniGuard 12 GPRS Service...
+Service UniGuard 12 GPRS Service has been successfully installed.
+Creating EventLog source UniGuard 12 GPRS Service in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing service UniGuard12GPRSService...
+Service UniGuard12GPRSService has been successfully installed.
+Creating EventLog source UniGuard12GPRSService in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing service UniGuard12GPRSService...
+Service UniGuard12GPRSService has been successfully installed.
+Creating EventLog source UniGuard12GPRSService in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing service UniGuard12GPRS...
+Service UniGuard12GPRS has been successfully installed.
+Creating EventLog source UniGuard12GPRS in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Uninstalling assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\Supersocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\Supersocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\Supersocket.SocketService.exe
+Unable to create an instance of the SuperSocket.SocketService.SocketServiceInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.ArgumentException was thrown with the following error message: Service name  contains invalid characters, is empty, or is too long (max length = 80)..
+Uninstalling assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Removing EventLog source UniGuard12GPRS.
+Service UniGuard12GPRS is being removed from the system...
+Service UniGuard12GPRS was successfully removed from the system.
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing service UniGuard12GPRS...
+Service UniGuard12GPRS has been successfully installed.
+Creating EventLog source UniGuard12GPRS in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Uninstalling assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Removing EventLog source UniGuard12GPRS.
+Service UniGuard12GPRS is being removed from the system...
+Service UniGuard12GPRS was successfully removed from the system.
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing service UniGuard12GPRS...
+Service UniGuard12GPRS has been successfully installed.
+Creating EventLog source UniGuard12GPRS in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Uninstalling assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Removing EventLog source UniGuard12GPRS.
+Service UniGuard12GPRS is being removed from the system...
+Service UniGuard12GPRS was successfully removed from the system.
+Installing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Installing service UniGuard12GPRS...
+Service UniGuard12GPRS has been successfully installed.
+Creating EventLog source UniGuard12GPRS in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Uninstalling assembly 'C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Development\DotNet\UniGuard12Server\UniGuard12Server\bin\Debug\SuperSocket.SocketService.exe
+Removing EventLog source UniGuard12GPRS.
+Service UniGuard12GPRS is being removed from the system...
+Service UniGuard12GPRS was successfully removed from the system.
